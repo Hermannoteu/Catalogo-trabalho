@@ -1,11 +1,45 @@
-# Sample Snack app
+📱 Catálogo de Produtos - React Native
+Um aplicativo de catálogo de produtos com autenticação, navegação por categorias e detalhes de produtos, desenvolvido com React Native e Expo.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+✨ Funcionalidades
+Login de usuário (simulado com validação)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Navegação por abas (produtos masculinos/femininos)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Filtro por categorias (roupas, tênis, relógios, etc.)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+Visualização de detalhes (imagens, preço, descrição)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Logout seguro
+
+🚀 Como Executar
+Clone o repositório
+
+bash
+git clone https://github.com/seu-usuario/seu-projeto.git
+cd seu-projeto
+Instale as dependências
+
+bash
+npm install
+Inicie o servidor
+
+bash
+npx expo start
+Escaneie o QR code com o app Expo Go (disponível na App Store e Play Store)
+
+🛠 Tecnologias
+React Native (Expo)
+
+React Navigation (Stack e Tabs)
+
+Redux Toolkit (gerenciamento de estado)
+
+Axios (consumo de API)
+
+API: DummyJSON
+
+📄 Licença
+Este projeto está sob a licença MIT - veja o arquivo LICENSE para detalhes.
+
+Desenvolvido com ❤️ por [Hermannoteu] | [2025]
